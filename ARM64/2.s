@@ -1,6 +1,5 @@
-
-     // Autor: Daniel Ivan Ruiz Pacheco
-    // Programa en ARM64 para sumar dos números
+// Autor: Daniel Ivan Ruiz Pacheco
+// Programa en ARM64 para sumar dos números
 
 
 // Equivalente en C:
