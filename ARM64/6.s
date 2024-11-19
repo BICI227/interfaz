@@ -1,5 +1,3 @@
 // Programa: Suma de los N primeros números naturales
 // Descripción: Calcula la suma de los primeros N números naturales.
-// Nivel: Intermedia
-// Duración: 20-30 minutos
-// Aplicaciones: Series numéricas, cálculos financieros
+// Autor: Daniel Ivan Ruiz Pacheco
